@@ -6,12 +6,12 @@ Greetings! 👋 I am Fahad, a dedicated Data Scientist and Engineer with experti
 
 ## Skills
 
-- **Programming Languages:** Proficient in Python and SQL.
-- **Databases:** Skilled in MongoDB.
-- **Libraries & Frameworks:** Well-versed in Pandas, NumPy.
-- **Data Analysis & Machine Learning:** Expertise in various data analysis and machine learning techniques.
-- **Deep Learning:** Proficient in understanding and applying deep learning concepts and frameworks.
-- **Statistical Analysis:** Strong background in statistical analysis.
+- **Programming Languages:** Intermediate in Python and SQL.
+- **Databases:** MongoDB. Apache Kafka for messaging. Apache Airflow for workflow orchestration.
+- **Libraries & Frameworks:** Familiar with Pandas, NumPy. Exploring computer vision libraries like OpenCV.
+- **Data Analysis & Machine Learning:** Developing skills in data analysis, machine learning, and computer vision techniques.
+- **Deep Learning:** Exploring deep learning concepts, frameworks, and applications in computer vision.
+- **Statistical Analysis:** Good understanding of statistical analysis.
 
 ## Tools and Technologies
 
