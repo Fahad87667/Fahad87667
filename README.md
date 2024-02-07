@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Greetings! 👋 I am Fahad, a dedicated Data Scientist and Engineer with expertise in Python and SQL. My passion lies in converting raw data into actionable insights and innovative solutions, leveraging a diverse array of tools and technologies.
+Greetings! 👋 I am Fahad, a dedicated Data Scientist and Engineer. My passion lies in converting raw data into actionable insights and innovative solutions, leveraging a diverse array of tools and technologies.
 
 ## Skills
 
