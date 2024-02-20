@@ -1,4 +1,4 @@
-# Data Scientist | Engineer
+# Data Scientist | Engineer | Analyst
 
 ## Introduction
 
