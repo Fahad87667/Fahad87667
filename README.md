@@ -4,25 +4,40 @@
 
 Greetings! 👋 I am Fahad, a dedicated Data Scientist and Engineer. My passion lies in converting raw data into actionable insights and innovative solutions, leveraging a diverse array of tools and technologies.
 
-## Skills
+## 🔭 What I'm working on
 
-- **Programming Languages:** Intermediate in Python and SQL.
-- **Databases:** MongoDB. Apache Kafka for messaging. Apache Airflow for workflow orchestration.
-- **Libraries & Frameworks:** Familiar with Pandas, NumPy. Exploring computer vision libraries like OpenCV.
-- **Data Analysis & Machine Learning:** Developing skills in data analysis, machine learning, and computer vision techniques.
-- **Deep Learning:** Exploring deep learning concepts, frameworks, and applications in computer vision.
-- **Statistical Analysis:** Good understanding of statistical analysis.
+- I'm currently working on some machine learning projects.
+- I'm also exploring different data science project ideas to practice my skills and learn new things.
 
-## Tools and Technologies
+## 🌱 What I'm learning
 
-- **Cloud Platforms:** Experience with AWS and GCP.
-- **Big Data Technologies:** Proficient in Hadoop, Apache Kafka, and Apache Spark.
-- **Visualization Tools:** Skilled in Tableau, PowerBi, and Excel for effective data presentation.
-- **Version Control:** Utilizing Git for efficient collaboration and version control.
+- I'm constantly improving my knowledge of data science tools and frameworks, such as Python, R, SQL, pandas, scikit-learn, TensorFlow, etc.
+- I'm also interested in learning more about deep learning, computer vision, and natural language generation.
 
+## 💬 Ask me about
 
-## Connect with Me
+- Anything related to data science, machine learning, and artificial intelligence.
+- How to get started with data science and what resources to use.
+- How to create compelling stories and visualizations from data.
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/fahad-khan-50b141233/) for discussions on data science, engineering, or any exciting opportunities in the field.
+## 🛠️ Skills and Tools
+
+- **Programming Languages:** !Python !SQL
+- **Databases:** !MongoDB !Apache Kafka !Apache Airflow
+- **Libraries & Frameworks:** !Pandas !NumPy !OpenCV
+- **Data Analysis & Machine Learning:** !Scikit-learn !TensorFlow
+- **Deep Learning:** !Keras !PyTorch
+- **Statistical Analysis:** !R !SPSS
+
+## 🚀 Tools and Technologies
+
+- **Cloud Platforms:** !AWS !GCP
+- **Big Data Technologies:** !Hadoop !Apache Spark
+- **Visualization Tools:** !Tableau !PowerBi !Excel
+- **Version Control:** !Git
+
+## 📫 Connect with Me
+
+Feel free to reach out on LinkedIn for discussions on data science, engineering, or any exciting opportunities in the field.
 
 Let's collaboratively transform data into impactful insights! 💡🚀
