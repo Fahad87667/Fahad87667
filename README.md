@@ -22,6 +22,6 @@ Greetings! 👋 I am Fahad, a dedicated Data Scientist and Engineer. My passion 
 
 ## 📫 Connect with Me
 
-Feel free to reach out on [LinkedIn](www.linkedin.com/in/fahad-khan-50b141233) for discussions on data science, engineering, or any exciting opportunities in the field.
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/fahad-khan-50b141233/) for discussions on data science, engineering, or any exciting opportunities in the field.
 
 Let's collaboratively transform data into impactful insights! 💡🚀
