@@ -11,7 +11,7 @@ Greetings! 👋 I am Fahad, a dedicated Data Scientist and Engineer. My passion 
 
 ## 🌱 What I'm learning
 
-- I'm constantly improving my knowledge of data science tools and frameworks, such as Python, R, SQL, pandas, scikit-learn, TensorFlow, etc.
+- I'm constantly improving my knowledge of data science tools and frameworks, such as Python, SQL, pandas, scikit-learn, TensorFlow, etc.
 - I'm also interested in learning more about deep learning, computer vision, and natural language generation.
 
 ## 💬 Ask me about
@@ -22,19 +22,18 @@ Greetings! 👋 I am Fahad, a dedicated Data Scientist and Engineer. My passion 
 
 ## 🛠️ Skills and Tools
 
-- **Programming Languages:** !Python !SQL
-- **Databases:** !MongoDB !Apache Kafka !Apache Airflow
-- **Libraries & Frameworks:** !Pandas !NumPy !OpenCV
-- **Data Analysis & Machine Learning:** !Scikit-learn !TensorFlow
-- **Deep Learning:** !Keras !PyTorch
-- **Statistical Analysis:** !R !SPSS
+- **Programming Languages:** Python | SQL
+- **Databases:** MongoDB | Apache Kafka | Apache Airflow
+- **Libraries & Frameworks:** !Pandas | NumPy | OpenCV
+- **Data Analysis & Machine Learning:** | Scikit-learn | TensorFlow
+- **Deep Learning:** | Keras | PyTorch
 
 ## 🚀 Tools and Technologies
 
-- **Cloud Platforms:** !AWS !GCP
-- **Big Data Technologies:** !Hadoop !Apache Spark
-- **Visualization Tools:** !Tableau !PowerBi !Excel
-- **Version Control:** !Git
+- **Cloud Platforms:** | AWS | GCP
+- **Big Data Technologies:** | Hadoop | Apache Spark
+- **Visualization Tools:** | Tableau | PowerBi | Excel
+- **Version Control:** | Git
 
 ## 📫 Connect with Me
 
