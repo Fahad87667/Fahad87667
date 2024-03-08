@@ -20,23 +20,8 @@ Greetings! 👋 I am Fahad, a dedicated Data Scientist and Engineer. My passion 
 - How to get started with data science and what resources to use.
 - How to create compelling stories and visualizations from data.
 
-## 🛠️ Skills and Tools
-
-- **Programming Languages:** Python | SQL
-- **Databases:** MongoDB | Apache Kafka | Apache Airflow
-- **Libraries & Frameworks:** !Pandas | NumPy | OpenCV
-- **Data Analysis & Machine Learning:** | Scikit-learn | TensorFlow
-- **Deep Learning:** | Keras | PyTorch
-
-## 🚀 Tools and Technologies
-
-- **Cloud Platforms:** | AWS | GCP
-- **Big Data Technologies:** | Hadoop | Apache Spark
-- **Visualization Tools:** | Tableau | PowerBi | Excel
-- **Version Control:** | Git
-
 ## 📫 Connect with Me
 
-Feel free to reach out on LinkedIn for discussions on data science, engineering, or any exciting opportunities in the field.
+Feel free to reach out on [LinkedIn](www.linkedin.com/in/fahad-khan-50b141233) for discussions on data science, engineering, or any exciting opportunities in the field.
 
 Let's collaboratively transform data into impactful insights! 💡🚀
