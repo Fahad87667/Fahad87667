@@ -26,5 +26,4 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/fahad-khan-50b1
 
 Let's collaboratively transform data into impactful insights! 💡🚀
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fahad87667)](https://git.io/streak-stats)
 
