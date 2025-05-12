@@ -1,12 +1,16 @@
-## 🌟 **About Me**
+# 💻 About Me
 
-Greetings! 👋 I’m **Fahad**, a dedicated **Data Analyst** and **Engineer** passionate about transforming **raw data** into **actionable insights** and innovative solutions. I enjoy working with a diverse array of tools and technologies to solve real-world problems.  
+Greetings! 👋 I'm Fahad, a dedicated Software Developer passionate about building robust, scalable, and efficient solutions using cutting-edge technologies. I enjoy transforming ideas into impactful software and continuously pushing the boundaries of my skills.
 
-### 🛠️ **What I'm Working On**
-- 🚀 Developing **machine learning projects**.  
-- 💡 Exploring **data science ideas** to sharpen my skills and learn new things.  
-- 📚 Enhancing my expertise in **Python**, **SQL**, **pandas**, **scikit-learn**, **TensorFlow**, and more.  
-- 🤖 Delving deeper into **deep learning**, **computer vision**, and **natural language generation**.  
+## 🛠️ Skills
+
+- **Programming Languages:** Java, C, C++, Python, JavaScript
+- **Frontend:** React.js, HTML, CSS, Bootstrap, Tailwind CSS  
+- **Backend:** Node.js, Express.js, Spring Boot, .NET  
+- **Database:** MySQL, MongoDB, PostgreSQL  
+- **DevOps:** Docker, Kubernetes, GitHub Actions, Jenkins, CI/CD  
+- **Cloud:** AWS, GCP  
+- **Tools:** Git, VS Code, Eclipse IDE, Postman   
 
 ---
 
