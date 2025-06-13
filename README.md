@@ -16,7 +16,8 @@ Greetings! 👋 I'm Fahad, a dedicated Software Developer passionate about build
 
 ## 🔗 **Connect with Me**  
 
-Feel free to reach out for discussions!
+Feel free to reach out for discussions !
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Fahad%20Khan-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/fahad-khan-50b141233/)  
 
 ---
