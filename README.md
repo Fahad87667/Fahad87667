@@ -4,7 +4,7 @@ Greetings! 👋 I'm Fahad, a dedicated Software Developer passionate about build
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Java, C, C++, Python, JavaScript
+- **Programming Languages:** Java, C, C++, C#, Python, JavaScript
 - **Frontend:** React.js, HTML, CSS, Bootstrap, Tailwind CSS  
 - **Backend:** Node.js, Express.js, Spring Boot, .NET  
 - **Database:** MySQL, MongoDB, PostgreSQL  
