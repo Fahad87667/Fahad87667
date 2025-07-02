@@ -1,7 +1,8 @@
 <div align="center">
   <h1>👋 Hello World, I'm Fahad Khan</h1>
-  <p>Building the future, one line of code at a time</p>
+<p style="font"><em>Building the future, one line of code at a time</em></p>
 </div>
+
 
 I'm a passionate Software Developer focused on creating impactful digital solutions. My journey in tech is driven by curiosity and the endless possibilities of innovation.
 
