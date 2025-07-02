@@ -1,6 +1,10 @@
-# 💻 About Me
+<div align="center">
+  <h1>👋 Hello World, I'm Fahad Khan</h1>
+  <p>Building the future, one line of code at a time</p>
+</div>
 
-Greetings! 👋 I'm Fahad, a dedicated Software Developer passionate about building robust, scalable, and efficient solutions using cutting-edge technologies. I enjoy transforming ideas into impactful software and continuously pushing the boundaries of my skills.
+I'm a passionate Software Developer focused on creating impactful digital solutions. My journey in tech is driven by curiosity and the endless possibilities of innovation.
+
 
 ## 🛠️ Skills
 
