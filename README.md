@@ -17,48 +17,41 @@ Driven by curiosity and innovation, I constantly explore new technologies to bri
 
 ## ⚒️ Tech Stack
 
-### 👨‍💻 Languages  
-![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-%2300599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-%23239120?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-%2314354C?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
+### 💻 Programming Languages
 
-### 🌐 Frontend  
-![React](https://img.shields.io/badge/-React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
-![HTML](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-%2306B6D4?style=flat&logo=tailwindcss&logoColor=white)
+| Java | C | C++ | C# | Python | JavaScript |
+|------|---|-----|----|--------|------------|
+| ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![C](https://img.shields.io/badge/-C-%2300599C?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/-C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![C#](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-%2314354C?style=for-the-badge&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 
-### 🧠 Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-%23000000?style=flat&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat&logo=spring-boot&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-%23512BD4?style=flat&logo=dotnet&logoColor=white)
+### 🌐 Frontend
 
-### 🗃️ Database  
-![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat&logo=postgresql&logoColor=white)
+| React | HTML | CSS | Bootstrap | Tailwind CSS |
+|-------|------|-----|-----------|--------------|
+| ![React](https://img.shields.io/badge/-React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![HTML](https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Tailwind](https://img.shields.io/badge/-Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) |
 
-### ⚙️ DevOps & Tools  
-![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-%232671E5?style=flat&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?style=flat&logo=jenkins&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-%23C43B47?style=flat&logo=git&logoColor=white)
+### 🧠 Backend
 
-### ☁️ Cloud  
-![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=flat&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-%234285F4?style=flat&logo=google-cloud&logoColor=white)
+| Node.js | Express.js | Spring Boot | .NET |
+|---------|------------|-------------|------|
+| ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Express](https://img.shields.io/badge/-Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![.NET](https://img.shields.io/badge/-.NET-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
 
-### 🛠️ Tools  
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-%232C2255?style=flat&logo=eclipse&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=flat&logo=postman&logoColor=white)
+### 🗃️ Databases
+
+| MySQL | MongoDB | PostgreSQL |
+|-------|---------|------------|
+| ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white) |
+
+### ⚙️ DevOps & Tools
+
+| Docker | Kubernetes | GitHub Actions | Jenkins | CI/CD |
+|--------|------------|----------------|---------|-------|
+| ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-%232671E5?style=for-the-badge&logo=github-actions&logoColor=white) | ![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white) | ![CI/CD](https://img.shields.io/badge/-CI%2FCD-%23C43B47?style=for-the-badge&logo=git&logoColor=white) |
+
+### ☁️ Cloud & IDEs
+
+| AWS | GCP | Git | VS Code | Eclipse | Postman |
+|-----|-----|-----|---------|---------|---------|
+| ![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | ![GCP](https://img.shields.io/badge/-GCP-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Eclipse](https://img.shields.io/badge/-Eclipse-%232C2255?style=for-the-badge&logo=eclipse&logoColor=white) | ![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 ---
 
