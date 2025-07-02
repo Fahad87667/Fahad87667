@@ -1,28 +1,71 @@
 <div align="center">
-  <h1>👋 Hello World, I'm Fahad Khan</h1>
-<p style="font"><em>Building the future, one line of code at a time</em></p>
+
+# 👋 Hello World, I'm Fahad Khan
+
+### 🚀 *Building the future, one line of code at a time*
+
 </div>
-
-
-I'm a passionate Software Developer focused on creating impactful digital solutions. My journey in tech is driven by curiosity and the endless possibilities of innovation.
-
-
-## 🛠️ Skills
-
-- **Programming Languages:** Java, C, C++, C#, Python, JavaScript
-- **Frontend:** React.js, HTML, CSS, Bootstrap, Tailwind CSS  
-- **Backend:** Node.js, Express.js, Spring Boot, .NET  
-- **Database:** MySQL, MongoDB, PostgreSQL  
-- **DevOps:** Docker, Kubernetes, GitHub Actions, Jenkins, CI/CD  
-- **Cloud:** AWS, GCP  
-- **Tools:** Git, VS Code, Eclipse IDE, Postman   
 
 ---
 
-## 🔗 **Connect with Me**  
+## 🧑‍💻 About Me
 
-Feel free to reach out for discussions !
+I'm a passionate **Software Developer** dedicated to crafting scalable, secure, and impactful digital solutions.  
+Driven by curiosity and innovation, I constantly explore new technologies to bring ideas to life.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Fahad%20Khan-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/fahad-khan-50b141233/)  
+---
+
+## ⚒️ Tech Stack
+
+### 👨‍💻 Languages  
+![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-%2300599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-%23239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-%2314354C?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 🌐 Frontend  
+![React](https://img.shields.io/badge/-React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
+![HTML](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-%2306B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+### 🧠 Backend  
+![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-%23000000?style=flat&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat&logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-%23512BD4?style=flat&logo=dotnet&logoColor=white)
+
+### 🗃️ Database  
+![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat&logo=postgresql&logoColor=white)
+
+### ⚙️ DevOps & Tools  
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-%232671E5?style=flat&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?style=flat&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-%23C43B47?style=flat&logo=git&logoColor=white)
+
+### ☁️ Cloud  
+![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-%234285F4?style=flat&logo=google-cloud&logoColor=white)
+
+### 🛠️ Tools  
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-%232C2255?style=flat&logo=eclipse&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+## 🔗 Connect with Me
+
+Feel free to reach out — always open to connect, collaborate, or just chat tech!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-khan-50b141233/)
 
 ---
