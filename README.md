@@ -18,7 +18,7 @@ Driven by curiosity and innovation, I constantly explore new technologies to bri
 ## ⚒️ Tech Stack
 
 ### 💻 Programming Languages
-| ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![C](https://img.shields.io/badge/-C-%2300599C?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/-C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![C#](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-%2314354C?style=for-the-badge&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-%2300599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-%2314354C?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🌐 Frontend
 
